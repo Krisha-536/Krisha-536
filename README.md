@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👩‍💻 Exploring tech, building projects, growing every day
 
-<!--
-**Krisha-536/Krisha-536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Krisha 👋
 
-Here are some ideas to get you started:
+IT student | Curious coder | Always learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like exploring tech, solving problems, and building things that matter.  
+💡 Currently exploring new tech daily and improving my coding skills.
+
+## 🚀 Tech Skills
+- **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS  
+- **Frontend:** React, Bootstrap  
+- **Backend:** Node.js  
+- **Tools:** Git, GitHub, VS Code, BlueJ, Cisco Packet Tracer  
+- **Technologies:** Linux
+
+## 🎯 Goals
+- Strengthen problem-solving and coding skills  
+- Build real-world projects  
+- Keep learning and experimenting  
+
+## 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/krisha-wadhwa-409600262/) | [Instagram](https://www.instagram.com/Krisha_536/)
