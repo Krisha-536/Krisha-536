@@ -18,11 +18,11 @@
   <img src="sparkle_glow.gif" width="250" height="250" />
 </p>
 
-I am an Information Technology student focused on developing scalable software solutions and exploring the intersection of modern web technologies and aerospace engineering. I am deeply interested in contributing to space exploration through software innovation, satellite systems, and mission-critical reliability.
+I enjoy building projects and understanding how things work behind the scenes. My interests lie in developing software and exploring how it applies to real-world domains, especially space technology. I’m particularly curious about the role of software in areas like satellites and space exploration. In the long term, I aim to work on technology that connects software with space-related applications.
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/FF1493/rocket.png" width="25"/> <span style="color: #FF1493;">Technical Toolkit</span>
+## <img src="https://img.icons8.com/ios-filled/50/FF1493/rocket.png" width="25"/> <span style="color: #FF1493;">Tech Stack</span>
 
 | Category | Technologies |
 | :--- | :--- |
@@ -44,9 +44,10 @@ I am an Information Technology student focused on developing scalable software s
 
 ### <img src="https://img.icons8.com/material-sharp/24/FF1493/star--v1.png" width="22"/> <span style="color: #FF1493;">Current Objectives</span>
 
-* **Algorithmic Proficiency:** Tackling complex challenges through advanced data structures and algorithms.
-* **Full-Stack Engineering:** Architecting end-to-end applications with a focus on performance and UX.
-* **Collaboration:** Engaging with the developer community to build impactful technical solutions.
+* Building full-stack projects and improving with each one  
+* Continuously learning and exploring new things in tech  
+* Practicing DSA to strengthen my fundamentals 
+* Engaging with the developer community to build impactful technical solutions.
 
 </div>
 
